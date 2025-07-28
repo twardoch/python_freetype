@@ -29,7 +29,7 @@ This document outlines a comprehensive plan to modernize and improve the python_
 ### Phase 1: Modernization and Stabilization
 
 #### 1.1 Project Structure Refactoring
-The current monolithic `freetype2.py` file should be split into a proper package structure:
+The current monolithic `freetype2.py` file should be split into a proper package structure, as detailed in `REFACTOR_SPLITTING.md`:
 
 ```
 freetype2/

@@ -3,7 +3,8 @@
 ## Phase 1: Modernization and Stabilization
 
 ### Project Structure
-- [ ] Create new package directory structure `freetype2/`
+- [x] Create new package directory structure `freetype2/` (detailed plan in REFACTOR_SPLITTING.md)
+- [ ] Implement splitting of `freetype2.py` into modular components as per `REFACTOR_SPLITTING.md`
 - [ ] Split `freetype2.py` into modular components:
   - [ ] Extract constants and enums to `constants.py`
   - [ ] Move error handling to `errors.py`

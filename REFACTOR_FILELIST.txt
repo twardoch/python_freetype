@@ -1,0 +1,4 @@
+119	./llms.txt
+116	./freetype2.py
+8	./PLAN.md
+5	./TODO.md
